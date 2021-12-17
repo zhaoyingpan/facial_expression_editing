@@ -3,7 +3,7 @@ This is README of the 592 final project of team 4, 2021 fall.
 
 1. Please check the screenshot in the folder zhaoyingpan/592final_project_2021fall/proof_of_timestamp!
 
-2. The original files are in zhaoyingpan/592final_project_2021fall/project592_original, which can be a little messy. We've arranged final codes in the two notebooks (592code_final.ipynb, preprocessing.ipynb).
+2. The original files of the screenshot (except some large zip files) are in zhaoyingpan/592final_project_2021fall/project592_original, which can be a little messy. We've arranged final codes in the two notebooks (592code_final.ipynb, preprocessing.ipynb).
 
 3. Please open the link to obtain all images, videos, and other neccessay files.
 
