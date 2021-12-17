@@ -3,9 +3,11 @@ This is README of the 592 final project of team 4, 2021 fall.
 
 1. Please check the screenshot in the folder zhaoyingpan/592final_project_2021fall/proof_of_timestamp!
 
-2. The original files of the screenshot (except some large zip files or dataset folder) are in zhaoyingpan/592final_project_2021fall/project592_original, which can be a little messy. We've arranged final codes in the two notebooks (592code_final.ipynb, preprocessing.ipynb) from original RITA2.ipynb, and faciallandmark.ipynb. This is our original folder and you can check the history. https://drive.google.com/drive/folders/1Hy2jX85v5t_FAGqzBhbV8-Qja0fVVQEw?usp=sharing We opened the RITA2.ipynb and progress_report.pptx after the screenshot, but you can right click "manage version" to check that we didn't change the notebook today.
+2. This is our original folder and you can check the history. https://drive.google.com/drive/folders/1Hy2jX85v5t_FAGqzBhbV8-Qja0fVVQEw?usp=sharing We opened the RITA2.ipynb and progress_report.pptx after the screenshot, but you can right click "manage version" to check that we didn't change the notebook today.
 
-3. Please open the link to obtain all images, videos, and other neccessay files.
+3. We've arranged final codes in the two notebooks (592code_final.ipynb, preprocessing.ipynb) from original RITA2.ipynb, and faciallandmark.ipynb. 
+
+4. Please open the link to obtain all images, videos, and other neccessay files.
 *(checkpoints.zip can't be uploaded to github due to its size, other files have been included in this repository)
 https://drive.google.com/drive/folders/12a-__j0YzMOlSbQULqcB6RihZBAgyGlC?usp=sharing
 
