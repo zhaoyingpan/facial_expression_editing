@@ -1,5 +1,6 @@
-# 592final_project_2021fall
-This is README of the 592 final project of team 4, 2021 fall.
+<!-- # 592final_project_2021fall -->
+# Improvement on Facial Expression Editing with Facial Landmarks and StyleGAN
+<!-- This is README of the 592 final project of team 4, 2021 fall. -->
 
 <!-- 1. Please check the screenshot in the folder zhaoyingpan/592final_project_2021fall/proof_of_timestamp!
 
@@ -10,9 +11,10 @@ This is README of the 592 final project of team 4, 2021 fall.
 4. Please open the link to obtain all images, videos, and other neccessay files.
 *(checkpoints.zip can't be uploaded to github due to its size, other files have been included in this repository)
 https://drive.google.com/drive/folders/12a-__j0YzMOlSbQULqcB6RihZBAgyGlC?usp=sharing -->
+Follow the instruction to test our idea!
 
-# The final folder should contain:
-* two ipynb file (592code_final.ipynb, preprocessing.ipynb)
+## The final folder should contain:
+* two ipynb file (code_final.ipynb, preprocessing.ipynb)
 * two original images (original1.jpg, original2.jpg)
 * two preprocessed images (pic1.jpg, pic2.jpg)
 * one original video (original_video.mp4)
@@ -22,7 +24,7 @@ https://drive.google.com/drive/folders/12a-__j0YzMOlSbQULqcB6RihZBAgyGlC?usp=sha
     ldm.zip contains landmarks for every frame in the 2.mp4, checkpoints.zip contains pretrained model which we will use later.
  
 
-For preprocessing.ipynb:
+### For preprocessing.ipynb:
 
 *If you already have pic1.jpg, pic2.jpg, 2.mp4, ldm.zip, pzy1.txt, pzy2.txt, you can skip this notebook.
 
@@ -38,8 +40,9 @@ For preprocessing.ipynb:
     3. Extract landmarks for every frame in the video: input a video, will save landmarks of every frame as txt files in a folder.
     4. Record the difference between the landmarks of input image and every frame: this part will save the landmark difference between input image and every frame in the video. The output file is pzy1.txt, pzy2.txt
 
-For 592code_final.ipynb:
-    *main code for generating video
+### For code_final.ipynb:
+
+*main code for generating video
 
 * First upload the pic1.jpg, pic2.jpg, 2.mp4, ldm.zip, pzy1.txt, pzy2.txt, then just follow every step in this notebook.
 
