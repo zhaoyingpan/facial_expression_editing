@@ -13,6 +13,8 @@
 https://drive.google.com/drive/folders/12a-__j0YzMOlSbQULqcB6RihZBAgyGlC?usp=sharing -->
 Follow the instruction to test our idea!
 
+Currently we are continuing to work on this project, and if you find the repo unavailable it's ok. We will post updated code soon!
+
 ## The final folder should contain:
 * two ipynb file (code_final.ipynb, preprocessing.ipynb)
 * two original images (original1.jpg, original2.jpg)
