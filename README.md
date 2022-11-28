@@ -11,9 +11,7 @@
 4. Please open the link to obtain all images, videos, and other neccessay files.
 *(checkpoints.zip can't be uploaded to github due to its size, other files have been included in this repository)
 https://drive.google.com/drive/folders/12a-__j0YzMOlSbQULqcB6RihZBAgyGlC?usp=sharing -->
-Follow the instruction to test our idea!
-
-Currently we are continuing to work on this project, and if you find the repo unavailable it's ok. We will post updated code soon!
+Follow the instruction to test our project!
 
 ## The final folder should contain:
 * two ipynb file (code_final.ipynb, preprocessing.ipynb)
